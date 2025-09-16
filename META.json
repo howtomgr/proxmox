@@ -1,0 +1,61 @@
+{
+  "category": "miscellaneous",
+  "created_date": "2025-09-15T22:48:58.788751",
+  "default_ports": [
+    2,
+    80,
+    81,
+    443,
+    8000,
+    9000
+  ],
+  "dependencies": [],
+  "description": "Proxmox installation and configuration guide",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/miscellaneous/proxmox",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/miscellaneous/proxmox",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:58.788773",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "proxmox",
+  "repository_url": "https://github.com/howtomgr/proxmox",
+  "spec_version": "2.0",
+  "subcategory": "miscellaneous",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "miscellaneous",
+    "containerization",
+    "networking",
+    "security"
+  ],
+  "title": "Install docker",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/miscellaneous/proxmox"
+}
